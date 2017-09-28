@@ -54,5 +54,10 @@ public class Algorithms {
 		return false;
 	}
 	
+	public static List<Double> sortScores(List<Double> scores) {
+		
+		return scores;
+	}
+	
 	//Add other methods here
 }
